@@ -1,5 +1,4 @@
 if __name__ == '__main__':
-    st.set_option('deprecation.showPyplotGlobalUse', False)
 
     # Adicione o código do Streamlit aqui
 import streamlit as st
@@ -9,8 +8,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import io
 import requests
-
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
