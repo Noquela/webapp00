@@ -3,6 +3,14 @@ if __name__ == '__main__':
 
     # Adicione o código do Streamlit aqui
 
+pip install pandas
+pip install numpy 
+pip install requests
+pip install matplotlib.pyplot
+pip install io
+pip install seaborn
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
