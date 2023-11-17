@@ -1,6 +1,5 @@
 if __name__ == '__main__':
 
-    # Adicione o código do Streamlit aqui
 import streamlit as st
 import pandas as pd
 import numpy as np
