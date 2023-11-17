@@ -10,6 +10,9 @@ import seaborn as sns
 import io
 import requests
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
+
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title(" ")
 
