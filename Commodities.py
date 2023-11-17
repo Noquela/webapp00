@@ -2,6 +2,13 @@
   
 #import the library
 import streamlit as st
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import io
+import requests
+
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title(" ")
